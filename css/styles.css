@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #28242c;
+}
+
+nav {
+    background-color: #88f979;
+    font-family: 'Barlow', sans-serif;
+}
+
+h3 {
+    color:#88f979;
+    font-family: 'Barlow', sans-serif;
+}
+
+h2 {
+    color:#88f979;
+    font-family: 'Barlow', sans-serif;
+}
+
+.text{
+    color: white;
+}
